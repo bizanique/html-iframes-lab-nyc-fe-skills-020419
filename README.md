@@ -6,7 +6,7 @@
     <head></head>
   </body>
   <iframe width="100%" heigh="400px" frameborder="1"
-  spc=
+  spc=https://www.google.com/maps/@40.7195187,-73.9240977,14z></iframe>
 
 ## Problem Statement
 
